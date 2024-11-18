@@ -3,6 +3,8 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../blocs/todo_bloc.dart';
 import '../models/todo.dart';
 
+// TodoItem widget
+
 class TodoItem extends StatelessWidget {
   final Todo todo;
 
